@@ -36,3 +36,8 @@ Chạy lần lượt các bước:
    ```bash
    python 3_evaluate.py
    ```
+
+## Notes
+
+Repo này được tạo ra với mục đích thực nghiệm cho môn **Khai phá dữ liệu**.
+Vì đây là dự án học thuật, những góp ý và đóng góp qua [Issues](../../issues) hoặc Pull Request đều rất đáng quý và được hoan nghênh!
